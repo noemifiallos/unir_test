@@ -1,11 +1,11 @@
-[{"alumno":"Noemi","nota":9.09,"ranking":150},
- {"alumno":"Juan","nota":8,"ranking":130},
- {"alumno":"Pedro","nota":2,"ranking":110},
- {"alumno":"Marcos","nota":5,"ranking":100},
- {"alumno":"Lucas","nota":3,"ranking":50},
- {"alumno":"Jesus","nota":9,"ranking":80},
+[{"alumno":"Noemi","nota":9.09,"ranking":38},
+ {"alumno":"Juan","nota":8,"ranking":30},
+ {"alumno":"Pedro","nota":2,"ranking":22},
+ {"alumno":"Marcos","nota":5,"ranking":28},
+ {"alumno":"Lucas","nota":3,"ranking":31},
+ {"alumno":"Jesus","nota":9,"ranking":37},
  {"alumno":"Maria","nota":8,"ranking":30},
- {"alumno":"Antonio","nota":3,"ranking":15},
- {"alumno":"Judas","nota":7,"ranking":95},
- {"alumno":"Nehemias","nota":5,"ranking":85}
+ {"alumno":"Antonio","nota":3,"ranking":22},
+ {"alumno":"Judas","nota":7,"ranking":32},
+ {"alumno":"Nehemias","nota":5,"ranking":27}
 ]
